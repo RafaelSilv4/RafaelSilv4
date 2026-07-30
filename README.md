@@ -83,6 +83,13 @@ Projeto completo de Data Warehouse utilizando SQL Server.
 
 - DP-600 — Fabric Analytics Engineer Associate
 
+- ## 🛠️ Additional Skills
+
+- Git & GitHub
+- Markdown
+- LaTeX (TeXStudio)
+- Technical Documentation
+
 ---
 
 # 📚 Atualmente estudando
