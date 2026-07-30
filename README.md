@@ -1,16 +1,116 @@
-## Hi there 👋
+# Rafael Silva 👋
 
-<!--
-**RafaelSilv4/RafaelSilv4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BI Analyst | Microsoft Fabric | Power BI | SQL Server | Data Engineering
 
-Here are some ideas to get you started:
+Sou Analista de BI com foco em desenvolvimento de soluções analíticas utilizando Microsoft Fabric, Power BI e SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, construindo projetos de Data Warehouse, Lakehouse e ETL utilizando boas práticas de arquitetura de dados.
+
+---
+
+# 🚀 Tecnologias
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-003B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lakehouse-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Warehouse-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 📂 Projetos
+
+## 📊 Fabric Wind Power Lakehouse
+
+Projeto desenvolvido utilizando Microsoft Fabric.
+
+**Principais tecnologias**
+
+- Lakehouse
+- Medallion Architecture
+- Dataflow Gen2
+- Power BI
+- Semantic Model
+- ETL
+- Delta Tables
+
+➡️ https://github.com/RafaelSilv4/fabric-wind-power-lakehouse
+
+---
+
+## 🏢 SQL Data Warehouse
+
+Projeto completo de Data Warehouse utilizando SQL Server.
+
+**Principais tecnologias**
+
+- Star Schema
+- SQL Server
+- T-SQL
+- ETL
+- Dimensões
+- Tabela Fato
+
+➡️ https://github.com/RafaelSilv4/sql-datawarehouse-project
+
+---
+
+# 📜 Certificações
+
+✅ Microsoft Certified: Azure Data Fundamentals (DP-900)
+
+🎯 Atualmente estudando para:
+
+- DP-600 — Fabric Analytics Engineer Associate
+
+---
+
+# 📚 Atualmente estudando
+
+- Microsoft Fabric
+- Engenharia de Dados
+- Data Warehouse
+- Lakehouse
+- DuckDB
+- SQL Avançado
+- Arquitetura Medallion
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelSilv4&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSilv4&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+Em breve:
+
+- LinkedIn
