@@ -36,6 +36,13 @@ Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, constru
 
 </p>
 
+- ## 🛠️ Additional Skills
+
+- Git & GitHub
+- Markdown
+- LaTeX (TeXStudio)
+- Technical Documentation
+- 
 ---
 
 # 📂 Projetos
@@ -82,13 +89,6 @@ Projeto completo de Data Warehouse utilizando SQL Server.
 🎯 Atualmente estudando para:
 
 - DP-600 — Fabric Analytics Engineer Associate
-
-- ## 🛠️ Additional Skills
-
-- Git & GitHub
-- Markdown
-- LaTeX (TeXStudio)
-- Technical Documentation
 
 ---
 
