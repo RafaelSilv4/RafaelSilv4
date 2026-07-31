@@ -122,4 +122,4 @@ Projeto completo de Data Warehouse utilizando SQL Server.
 
 Em breve:
 
-- LinkedIn
+- [LinkedIn] (https://www.linkedin.com/in/rafael-silva-349a98366/)
