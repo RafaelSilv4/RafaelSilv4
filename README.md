@@ -76,7 +76,7 @@ A solução simula a arquitetura encontrada em plataformas como Microsoft Fabric
 * Bronze / Silver / Gold
 * Visual Studio Code
 
-➡️ https://github.com/RafaelSilv4/sql-server-lakehouse
+➡️ https://github.com/RafaelSilv4/lakehouse-estrutura-logica-sql-server
 
 ---
 
