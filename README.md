@@ -59,23 +59,6 @@ Projeto desenvolvido utilizando Microsoft Fabric, implementando uma arquitetura 
 
 ---
 
-## 🏢 SQL Data Warehouse
-
-Projeto completo de Data Warehouse utilizando SQL Server, incluindo modelagem dimensional, processos ETL e consultas analíticas.
-
-**Principais tecnologias**
-
-* SQL Server
-* T-SQL
-* Star Schema
-* ETL
-* Dimensões
-* Tabela Fato
-
-➡️ https://github.com/RafaelSilv4/sql-datawarehouse-project
-
----
-
 ## 🏗️ SQL Server Lakehouse Simulation
 
 Projeto que demonstra como os conceitos de um Lakehouse moderno podem ser implementados utilizando apenas SQL Server e Visual Studio Code.
