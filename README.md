@@ -1,4 +1,4 @@
-# Rafael Silva 👋
+# Rafael Silva
 
 ### BI Analyst | Microsoft Fabric | Power BI | SQL Server | Data Engineering
 
