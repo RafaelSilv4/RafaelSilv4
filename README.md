@@ -2,9 +2,9 @@
 
 ### BI Analyst | Microsoft Fabric | Power BI | SQL Server | Data Engineering
 
-Sou Analista de BI com foco em desenvolvimento de soluções analíticas utilizando Microsoft Fabric, Power BI e SQL Server.
+Sou Analista de BI com foco no desenvolvimento de soluções analíticas utilizando Microsoft Fabric, Power BI e SQL Server.
 
-Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, construindo projetos de Data Warehouse, Lakehouse e ETL utilizando boas práticas de arquitetura de dados.
+Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, desenvolvendo projetos de Data Warehouse, Lakehouse, ETL e modelagem dimensional seguindo boas práticas de arquitetura de dados.
 
 ---
 
@@ -42,17 +42,18 @@ Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, constru
 
 ## 📊 Fabric Wind Power Lakehouse
 
-Projeto desenvolvido utilizando Microsoft Fabric.
+Projeto desenvolvido utilizando Microsoft Fabric, implementando uma arquitetura Lakehouse completa com camadas Bronze, Silver e Gold.
 
 **Principais tecnologias**
 
-- Lakehouse
-- Medallion Architecture
-- Dataflow Gen2
-- Power BI
-- Semantic Model
-- ETL
-- Delta Tables
+* Microsoft Fabric
+* Lakehouse
+* Medallion Architecture
+* Dataflow Gen2
+* Power BI
+* Semantic Model
+* ETL
+* Delta Tables
 
 ➡️ https://github.com/RafaelSilv4/fabric-wind-power-lakehouse
 
@@ -60,18 +61,39 @@ Projeto desenvolvido utilizando Microsoft Fabric.
 
 ## 🏢 SQL Data Warehouse
 
-Projeto completo de Data Warehouse utilizando SQL Server.
+Projeto completo de Data Warehouse utilizando SQL Server, incluindo modelagem dimensional, processos ETL e consultas analíticas.
 
 **Principais tecnologias**
 
-- Star Schema
-- SQL Server
-- T-SQL
-- ETL
-- Dimensões
-- Tabela Fato
+* SQL Server
+* T-SQL
+* Star Schema
+* ETL
+* Dimensões
+* Tabela Fato
 
 ➡️ https://github.com/RafaelSilv4/sql-datawarehouse-project
+
+---
+
+## 🏗️ SQL Server Lakehouse Simulation
+
+Projeto que demonstra como os conceitos de um Lakehouse moderno podem ser implementados utilizando apenas SQL Server e Visual Studio Code.
+
+A solução simula a arquitetura encontrada em plataformas como Microsoft Fabric, Azure Synapse, Databricks e Snowflake através de camadas Bronze, Silver e Gold, procedures de ingestão, transformação e carga de dados.
+
+**Principais tecnologias**
+
+* SQL Server
+* T-SQL
+* Lakehouse
+* Medallion Architecture
+* Stored Procedures
+* ETL
+* Bronze / Silver / Gold
+* Visual Studio Code
+
+➡️ https://github.com/RafaelSilv4/sql-server-lakehouse
 
 ---
 
@@ -81,28 +103,28 @@ Projeto completo de Data Warehouse utilizando SQL Server.
 
 🎯 Atualmente estudando para:
 
-- DP-600 — Fabric Analytics Engineer Associate
+* DP-600 — Fabric Analytics Engineer Associate
 
 ---
 
 # 📚 Atualmente estudando
 
-- Microsoft Fabric
-- Engenharia de Dados
-- Data Warehouse
-- Lakehouse
-- DuckDB
-- SQL Avançado
-- Arquitetura Medallion
+* Microsoft Fabric
+* Engenharia de Dados
+* Data Warehouse
+* Lakehouse
+* DuckDB
+* SQL Avançado
+* Arquitetura Medallion
 
 ---
 
-- ## 🛠️ Additional Skills
+# 🛠️ Additional Skills
 
-- Git & GitHub
-- Markdown
-- LaTeX (TeXStudio)
-- Technical Documentation
+* Git & GitHub
+* Markdown
+* LaTeX (TeXStudio)
+* Technical Documentation
 
 ---
 
@@ -120,6 +142,4 @@ Projeto completo de Data Warehouse utilizando SQL Server.
 
 # 📫 Contato
 
-Em breve:
-
-- [LinkedIn] (https://www.linkedin.com/in/rafael-silva-349a98366/)
+* LinkedIn: https://www.linkedin.com/in/rafael-silva-349a98366/
